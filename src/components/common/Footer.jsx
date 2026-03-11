@@ -80,7 +80,7 @@ export default function Footer() {
 
         <div className="border-t border-gray-800 mt-8 pt-6 flex flex-col sm:flex-row items-center justify-between gap-3">
           <p className="text-xs">
-
+            © 2026 GovAI. Built with ❤️ for Indian Citizens. For demonstration purposes only.
           </p>
           <div className="flex items-center gap-2 text-xs">
             <span className="text-gray-600">Supported Languages:</span>
